@@ -1,5 +1,8 @@
 package com.jtjl.dao;
 
-public class SysUserDao {
+import org.springframework.stereotype.Repository;
+
+@Repository
+public  interface SysUserDao {
 
 }

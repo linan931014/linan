@@ -1,5 +1,7 @@
 package com.jtjl.dao.daoImpl;
 
-public class SysUserDaoImpl {
+import com.jtjl.dao.SysUserDao;
 
+public class SysUserDaoImpl implements SysUserDao {
+	
 }
